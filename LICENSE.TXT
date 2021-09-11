@@ -1,0 +1,4 @@
+
+ h2incx version 0.99.19
+ h2incx is Public Domain software.
+ Originally written by japheth (Andreas Grech).
